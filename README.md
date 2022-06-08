@@ -4,3 +4,4 @@
 - 💞️ Collaborating with atomicradio with 💙
 - 📫 Reach me at https://skittlz.xyz/discord
 - 👉 Follow me on https://tiktok.com/@deutscher775
+- 🤖 Currently working on Deutscher-Bot

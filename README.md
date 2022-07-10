@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Music and Gaming
 - 🌱 I’m currently learning Python, HTML, CSS and JS
 - 💞️ Editor at atomicradio with 💙
-- 📫 Reach me at https://skittlz.xyz/discord
+- 📫 Reach me at https://deutscher775.de/discord
 - 👉 Follow me on https://tiktok.com/@deutscher775
 - 🤖 Currently working on Deutscher-Bot
 <a href="https://top.gg/bot/954029576277852181">

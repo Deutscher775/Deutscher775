@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deutscher775
+- 👋 Hi, I’m Deutscher775 (Jason)
 - 👀 I’m interested in programming, music and gaming
 - 🌱 I’m currently learning Python, HTML, CSS, Lua and JS
 - 💞️ Editor at [atomicradio](https://atomic.radio) with 💙

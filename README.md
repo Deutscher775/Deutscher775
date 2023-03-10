@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deutscher775
 - 👀 I’m interested in programming, music and gaming
 - 🌱 I’m currently learning Python, HTML, CSS, Lua and JS
-- 💞️ Editor at [atomic.radio with](https://atomic.radio) 💙
+- 💞️ Editor at [atomicradio](https://atomic.radio) with 💙
 - 📫 Reach me on [Discord (Profile)](https://discordapp.com/users/690123872674119710)
 - 🤖 Currently working on CeleryPanel
 - ✨ Other good projects are [Guildcord-API](https://github.com/Guildcord-API) and the not open souce [Schildi Discord-bot (invite to server)](https://discord.gg/sirella)

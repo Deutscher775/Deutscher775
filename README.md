@@ -1,3 +1,8 @@
+# Hi :D
+[![Discord Presence](https://lanyard.cnrad.dev/api/690123872674119710)](https://discord.com/users/690123872674119710)
+
+
+
 - 👋 Hi, I’m Deutscher775 (Jason)
 - 👀 I’m interested in programming, music and gaming
 - 🌱 I’m currently learning Python, HTML, CSS, Lua and JS

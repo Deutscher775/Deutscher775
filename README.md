@@ -1,15 +1,11 @@
 # Hi :D
 [![Discord Presence](https://lanyard.cnrad.dev/api/690123872674119710)](https://discord.com/users/690123872674119710)
 
+## Some random ass python developer.
 
+## Wanna link your discord, guilded and revolt servers?
+**<a href="https://guildcord-bot.tk" target="_blank">Check this out ;D</a>**
 
-- 👋 Hi, I’m Deutscher775 (Jason)
-- 👀 I’m interested in programming, music and gaming
-- 🌱 I’m currently learning Python, HTML, CSS, Lua and JS
-- 💞️ Editor at [atomicradio](https://atomic.radio) with 💙
-- 📫 Reach me on [Discord (profile)](https://discordapp.com/users/690123872674119710)
-- 🤖 Currently working on [Guildcord-API](https://github.com/Guildcord-API)
-- ✨ Other good project, but not open souce [Schildi Discord-bot (invite to server)](https://discord.gg/sirella)
-<a href="https://top.gg/bot/954029576277852181">
-  <img src="https://top.gg/api/widget/954029576277852181.svg">
-</a>
+### Editor at <a href="https://atomic.radio" target="_blank">atomicradio</a> with 💙
+
+✨ Other good project, but not open souce **<a href="https://discord.gg/sirella" target="_blank">Schildi Discord-bot (join server)</a>**

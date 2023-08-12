@@ -9,4 +9,4 @@
 
 ### Editor at <a href="https://atomic.radio" target="_blank">atomicradio</a> with 💙
 
-✨ Other good project, but not open souce **[Schildi Discord-bot (join server)](https://discord.gg/sirella) **
+✨ Other good project, but not open souce **[Schildi Discord-bot (join server)](https://discord.gg/sirella)**

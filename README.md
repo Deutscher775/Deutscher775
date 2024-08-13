@@ -7,6 +7,10 @@
 ## Wanna link your discord, guilded and revolt servers?
 **[Check this out ;D](https://discord.gg/Vf6wqK4nef)**
 
+## Stats
+![Jasons's GitHub stats](https://github-readme-stats.vercel.app/api?username=deutscher775&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deutscher775&layout=compact)
+
 ### Editor at <a href="https://atomic.radio" target="_blank">atomicradio</a> with 💙
 
 ✨ Other good project, but not open souce **[Schildi Discord-bot (join server)](https://sirellasama.de/discord)**

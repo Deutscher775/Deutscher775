@@ -1,7 +1,7 @@
 # Hi :D
 [![Discord Presence](https://lanyard.cnrad.dev/api/690123872674119710)](https://discord.com/users/690123872674119710)
 
-## Some random ass python and javascript developer.
+## Some random ass full-stack developer developer.
 [deutscher775.de](https://deutscher775.de)
 
 ## Wanna link your discord, guilded and revolt servers?

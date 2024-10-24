@@ -1,7 +1,7 @@
 # Hi :D
 [![Discord Presence](https://lanyard.cnrad.dev/api/690123872674119710)](https://discord.com/users/690123872674119710)
 
-## Some random ass full-stack developer developer.
+## Some random ass full-stack developer.
 [deutscher775.de](https://deutscher775.de)
 
 ## Founder and developer of 

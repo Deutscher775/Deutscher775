@@ -2,7 +2,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/690123872674119710)](https://discord.com/users/690123872674119710)
 
 ## Some random ass full-stack developer.
-[deutscher775.de](https://deutscher775.de)
+[deutscher775.de](https://deutscher775.de) | [jesn.zip](https://jesn.zip)
 
 ## Founder and developer of 
 **[Astroid](https://astroid.cc)**
